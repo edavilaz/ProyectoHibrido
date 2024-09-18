@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\images\\catering.jpg",
+      "PackagePath": "staticwebassets\\images\\catering.jpg"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\images\\chef.png",
+      "PackagePath": "staticwebassets\\images\\chef.png"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\images\\colombia.png",
+      "PackagePath": "staticwebassets\\images\\colombia.png"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\images\\desayuno.png",
+      "PackagePath": "staticwebassets\\images\\desayuno.png"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\images\\mexicana.png",
+      "PackagePath": "staticwebassets\\images\\mexicana.png"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\images\\servicios.png",
+      "PackagePath": "staticwebassets\\images\\servicios.png"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\images\\talleres.png",
+      "PackagePath": "staticwebassets\\images\\talleres.png"
+    },
+    {
+      "Id": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\userimages\\977f73cb-b558-490a-acae-00560d805b33_AVATAR4.png",
+      "PackagePath": "staticwebassets\\userimages\\977f73cb-b558-490a-acae-00560d805b33_AVATAR4.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebAPI.props",
+      "PackagePath": "build\\WebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebAPI.props",
+      "PackagePath": "buildMultiTargeting\\WebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebAPI.props",
+      "PackagePath": "buildTransitive\\WebAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

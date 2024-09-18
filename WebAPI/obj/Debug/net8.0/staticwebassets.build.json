@@ -1,0 +1,846 @@
+{
+  "Version": 1,
+  "Hash": "0lipMCZzNyLgTvrU87ip0av9wLAVD62DI0o7+DmzhHU=",
+  "Source": "WebAPI",
+  "BasePath": "_content/WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAPI\\wwwroot",
+      "Source": "WebAPI",
+      "ContentRoot": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\images\\catering.jpg",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "images/catering#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ptw81m79ob",
+      "Integrity": "LcGHtQcZy+wgbJZ/NB52m4ApxZhKCOpo+FisLvjN8Os=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\catering.jpg"
+    },
+    {
+      "Identity": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\images\\chef.png",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "images/chef#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "25cnybxq46",
+      "Integrity": "NpucQu0/ms8R8/w4jsOuH6VdwYD4Q0BqAv7BycWfIok=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\chef.png"
+    },
+    {
+      "Identity": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\images\\colombia.png",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "images/colombia#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oihdzejyjy",
+      "Integrity": "8EQtQt7SxCkre0m1zAEVjyhNpPwxhoBME++tMwUvfrw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\colombia.png"
+    },
+    {
+      "Identity": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\images\\desayuno.png",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "images/desayuno#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "avnou39rtn",
+      "Integrity": "KlcMWcuuwuiPd/x0JCrAamaeVD5XYMaozxkr0ymW1Ik=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\desayuno.png"
+    },
+    {
+      "Identity": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\images\\mexicana.png",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "images/mexicana#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5yw3vvjgda",
+      "Integrity": "jVReA1OXKy9eqwu/agH4UJrtjln3UXhQAoyEEth/j7s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\mexicana.png"
+    },
+    {
+      "Identity": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\images\\servicios.png",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "images/servicios#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2kqr41xv7u",
+      "Integrity": "MreuG2tr4Vly5aRB4prCGZ81nos72uG9KSsWNIRJsbo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\servicios.png"
+    },
+    {
+      "Identity": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\images\\talleres.png",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "images/talleres#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9xfgxq20ws",
+      "Integrity": "nT0cetR6XMk0QdBkjHNEfwSHBum2TF70zZZcYHNNq6s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\talleres.png"
+    },
+    {
+      "Identity": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\userimages\\977f73cb-b558-490a-acae-00560d805b33_AVATAR4.png",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "userimages/977f73cb-b558-490a-acae-00560d805b33_AVATAR4#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ps6bsxjz0m",
+      "Integrity": "KaedbbFGDsF48qu6eXpvcSYwmS9NHenBRYye2exGEww=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\userimages\\977f73cb-b558-490a-acae-00560d805b33_AVATAR4.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/catering.jpg",
+      "AssetFile": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\images\\catering.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6756"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LcGHtQcZy+wgbJZ/NB52m4ApxZhKCOpo+FisLvjN8Os=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Sep 2024 13:43:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LcGHtQcZy+wgbJZ/NB52m4ApxZhKCOpo+FisLvjN8Os="
+        }
+      ]
+    },
+    {
+      "Route": "images/catering.ptw81m79ob.jpg",
+      "AssetFile": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\images\\catering.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6756"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LcGHtQcZy+wgbJZ/NB52m4ApxZhKCOpo+FisLvjN8Os=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Sep 2024 13:43:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ptw81m79ob"
+        },
+        {
+          "Name": "label",
+          "Value": "images/catering.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LcGHtQcZy+wgbJZ/NB52m4ApxZhKCOpo+FisLvjN8Os="
+        }
+      ]
+    },
+    {
+      "Route": "images/chef.25cnybxq46.png",
+      "AssetFile": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\images\\chef.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24896"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NpucQu0/ms8R8/w4jsOuH6VdwYD4Q0BqAv7BycWfIok=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Sep 2024 23:38:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "25cnybxq46"
+        },
+        {
+          "Name": "label",
+          "Value": "images/chef.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NpucQu0/ms8R8/w4jsOuH6VdwYD4Q0BqAv7BycWfIok="
+        }
+      ]
+    },
+    {
+      "Route": "images/chef.png",
+      "AssetFile": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\images\\chef.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24896"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NpucQu0/ms8R8/w4jsOuH6VdwYD4Q0BqAv7BycWfIok=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Sep 2024 23:38:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NpucQu0/ms8R8/w4jsOuH6VdwYD4Q0BqAv7BycWfIok="
+        }
+      ]
+    },
+    {
+      "Route": "images/colombia.oihdzejyjy.png",
+      "AssetFile": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\images\\colombia.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "261642"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8EQtQt7SxCkre0m1zAEVjyhNpPwxhoBME++tMwUvfrw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Sep 2024 23:43:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oihdzejyjy"
+        },
+        {
+          "Name": "label",
+          "Value": "images/colombia.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8EQtQt7SxCkre0m1zAEVjyhNpPwxhoBME++tMwUvfrw="
+        }
+      ]
+    },
+    {
+      "Route": "images/colombia.png",
+      "AssetFile": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\images\\colombia.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "261642"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8EQtQt7SxCkre0m1zAEVjyhNpPwxhoBME++tMwUvfrw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Sep 2024 23:43:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8EQtQt7SxCkre0m1zAEVjyhNpPwxhoBME++tMwUvfrw="
+        }
+      ]
+    },
+    {
+      "Route": "images/desayuno.avnou39rtn.png",
+      "AssetFile": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\images\\desayuno.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74400"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KlcMWcuuwuiPd/x0JCrAamaeVD5XYMaozxkr0ymW1Ik=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Sep 2024 23:34:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "avnou39rtn"
+        },
+        {
+          "Name": "label",
+          "Value": "images/desayuno.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KlcMWcuuwuiPd/x0JCrAamaeVD5XYMaozxkr0ymW1Ik="
+        }
+      ]
+    },
+    {
+      "Route": "images/desayuno.png",
+      "AssetFile": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\images\\desayuno.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74400"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KlcMWcuuwuiPd/x0JCrAamaeVD5XYMaozxkr0ymW1Ik=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Sep 2024 23:34:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KlcMWcuuwuiPd/x0JCrAamaeVD5XYMaozxkr0ymW1Ik="
+        }
+      ]
+    },
+    {
+      "Route": "images/mexicana.5yw3vvjgda.png",
+      "AssetFile": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\images\\mexicana.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "106728"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jVReA1OXKy9eqwu/agH4UJrtjln3UXhQAoyEEth/j7s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Sep 2024 23:42:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5yw3vvjgda"
+        },
+        {
+          "Name": "label",
+          "Value": "images/mexicana.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jVReA1OXKy9eqwu/agH4UJrtjln3UXhQAoyEEth/j7s="
+        }
+      ]
+    },
+    {
+      "Route": "images/mexicana.png",
+      "AssetFile": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\images\\mexicana.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "106728"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jVReA1OXKy9eqwu/agH4UJrtjln3UXhQAoyEEth/j7s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Sep 2024 23:42:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jVReA1OXKy9eqwu/agH4UJrtjln3UXhQAoyEEth/j7s="
+        }
+      ]
+    },
+    {
+      "Route": "images/servicios.2kqr41xv7u.png",
+      "AssetFile": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\images\\servicios.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34382"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MreuG2tr4Vly5aRB4prCGZ81nos72uG9KSsWNIRJsbo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Jun 2024 22:49:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2kqr41xv7u"
+        },
+        {
+          "Name": "label",
+          "Value": "images/servicios.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MreuG2tr4Vly5aRB4prCGZ81nos72uG9KSsWNIRJsbo="
+        }
+      ]
+    },
+    {
+      "Route": "images/servicios.png",
+      "AssetFile": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\images\\servicios.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34382"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MreuG2tr4Vly5aRB4prCGZ81nos72uG9KSsWNIRJsbo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Jun 2024 22:49:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MreuG2tr4Vly5aRB4prCGZ81nos72uG9KSsWNIRJsbo="
+        }
+      ]
+    },
+    {
+      "Route": "images/talleres.9xfgxq20ws.png",
+      "AssetFile": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\images\\talleres.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12526"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nT0cetR6XMk0QdBkjHNEfwSHBum2TF70zZZcYHNNq6s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Jun 2024 02:36:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9xfgxq20ws"
+        },
+        {
+          "Name": "label",
+          "Value": "images/talleres.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nT0cetR6XMk0QdBkjHNEfwSHBum2TF70zZZcYHNNq6s="
+        }
+      ]
+    },
+    {
+      "Route": "images/talleres.png",
+      "AssetFile": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\images\\talleres.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12526"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nT0cetR6XMk0QdBkjHNEfwSHBum2TF70zZZcYHNNq6s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Jun 2024 02:36:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nT0cetR6XMk0QdBkjHNEfwSHBum2TF70zZZcYHNNq6s="
+        }
+      ]
+    },
+    {
+      "Route": "userimages/977f73cb-b558-490a-acae-00560d805b33_AVATAR4.png",
+      "AssetFile": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\userimages\\977f73cb-b558-490a-acae-00560d805b33_AVATAR4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41940"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KaedbbFGDsF48qu6eXpvcSYwmS9NHenBRYye2exGEww=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Sep 2024 02:08:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KaedbbFGDsF48qu6eXpvcSYwmS9NHenBRYye2exGEww="
+        }
+      ]
+    },
+    {
+      "Route": "userimages/977f73cb-b558-490a-acae-00560d805b33_AVATAR4.ps6bsxjz0m.png",
+      "AssetFile": "D:\\PROYECTOS\\ProyectoHibrido\\WebAPI\\wwwroot\\userimages\\977f73cb-b558-490a-acae-00560d805b33_AVATAR4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41940"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KaedbbFGDsF48qu6eXpvcSYwmS9NHenBRYye2exGEww=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Sep 2024 02:08:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ps6bsxjz0m"
+        },
+        {
+          "Name": "label",
+          "Value": "userimages/977f73cb-b558-490a-acae-00560d805b33_AVATAR4.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KaedbbFGDsF48qu6eXpvcSYwmS9NHenBRYye2exGEww="
+        }
+      ]
+    }
+  ]
+}
