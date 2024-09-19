@@ -141,3 +141,4 @@ D:\PROYECTOS\ProyectoHibrido\WebAPI\obj\Debug\net8.0\refint\WebAPI.dll
 D:\PROYECTOS\ProyectoHibrido\WebAPI\obj\Debug\net8.0\WebAPI.pdb
 D:\PROYECTOS\ProyectoHibrido\WebAPI\obj\Debug\net8.0\WebAPI.genruntimeconfig.cache
 D:\PROYECTOS\ProyectoHibrido\WebAPI\obj\Debug\net8.0\ref\WebAPI.dll
+D:\PROYECTOS\ProyectoHibrido\WebAPI\obj\Debug\net8.0\WebAPI.sourcelink.json
